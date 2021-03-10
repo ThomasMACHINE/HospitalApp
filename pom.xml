@@ -11,7 +11,7 @@
                 i studenteposten din/Blackboard.
         artifactID er navnet på applikasjonen/prosjektet.
     -->
-    <groupId>no.ntnu.idata2020.522657</groupId>
+    <groupId>no.ntnu.idata2001.522657</groupId>
     <artifactId>HospitalApp</artifactId>
     <version>1.0-SNAPSHOT</version>
 
