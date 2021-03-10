@@ -9,5 +9,8 @@
         <module name="HospitalApp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HospitalApp" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
